@@ -1,0 +1,5 @@
+{
+	"cmd":["D:/programs/matlab/bin/matlab",
+	"-nosplash","-nodesktop","-r","$file_base_name"],
+	"selector":"source.matlab,source.m"
+}
